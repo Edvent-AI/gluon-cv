@@ -18,4 +18,4 @@ Note 2: `video.txt` contains a list of filepaths of videos to run inference on, 
 Note 3: It seems that not all models listed in the 'available models' link are available pre-trained.
 
 Reference: https://cv.gluon.ai/build/examples_action_recognition/demo_custom.html
-Available models: https://cv.gluon.ai/model_zoo/action_recognition.html
+Available models: https://cv.gluon.ai/model_zoo/action_recognition.html, https://cv.gluon.ai/model_zoo/action_recognition.html#id187
